@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "Bitte so zitieren: Wechso, wechso.de/presse, CC BY 4.0"
+type: dataset
+title: "Grundversorgung Strom und Gas in Deutschland: Preise 2026 und 2027"
+authors:
+  - name: "Wechso"
+    website: "https://wechso.de"
+date-released: "2026-11-23"
+license: CC-BY-4.0
+url: "https://wechso.de/presse/"
+repository-code: "https://github.com/Wechso/grundversorgung-preise"
+keywords:
+  - Grundversorgung
+  - Strompreis
+  - Gaspreis
+  - Stromsteuer
+  - Deutschland
+  - Open Data

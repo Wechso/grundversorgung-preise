@@ -1,0 +1,745 @@
+{
+  "stand": "2026-11-23",
+  "versorger_in_liste": 206,
+  "versorger_geprueft": 201,
+  "versorger_nicht_abrufbar": {
+    "E.ON Energie Deutschland GmbH": "eon.de antwortet mit 403 (Bot-Sperre, nicht umgangen)",
+    "Emscher Lippe Energie GmbH (ELE)": "ele.de 403",
+    "SWE Energie GmbH": "swe-energie.de Zeitüberschreitung",
+    "Emscher Lippe Energie GmbH": "ele.de 403",
+    "Energieversorgung Oberhausen AG (evo)": "evo-energie.de 403"
+  },
+  "eintraege_je_status": {
+    "im Preisblatt 2027 eingerechnet": 2,
+    "Weitergabe angekündigt": 38,
+    "prüft noch / offen": 4,
+    "Weitergabe angekündigt mit Vorbehalt": 5,
+    "nur Presse": 3
+  },
+  "hinweis": "Nur Einträge mit Status ungleich „keine Angabe gefunden“. Alle übrigen geprüften Versorger: keine Angabe gefunden (Stand 2026-11-23). „nur Presse“ = Hinweis aus Presse, Versorgerquelle nicht gefunden.",
+  "eintraege": [
+    {
+      "versorger": "Stadtwerke Lippstadt GmbH",
+      "staedte": [
+        "Lippstadt"
+      ],
+      "status": "im Preisblatt 2027 eingerechnet",
+      "zitat": "Stromsteuer HT und NT 0,100",
+      "quelle_url": "https://www.stadtwerke-lippstadt.com/de/Strom/Produkte/Produkte/2027-01-01-Preisblatt-Allgemeiner-Tarif-GrundErsatz.pdf",
+      "quelle_art": "Versorger",
+      "gefunden_am": "2026-11-23",
+      "hinweis": "Preisblatt ab 01.01.2027: Stromsteuer 0,100 ct/kWh netto (0,119 brutto), Arbeitspreis 31,45 ct brutto. Dazu PM: https://www.stadtwerke-lippstadt.com/de/Kopfnavigation/Unternehmen/Presse/Pressemitteilungen-2026/Stromsteuersenkung-wirkt-Stadtwerke-reichen-Entlastung-des-Bundes-vollumfaenglich-weiter_184122.html"
+    },
+    {
+      "versorger": "Stadtwerke Winsen (Luhe) GmbH",
+      "staedte": [
+        "Winsen (Luhe)"
+      ],
+      "status": "im Preisblatt 2027 eingerechnet",
+      "zitat": "Der ausgewiesene Arbeitspreis berücksichtigt die Absenkung der Stromsteuer auf den europäischen Mindeststeuersatz",
+      "quelle_url": "https://www.stw-winsen.de/de/Dokumente-Bilder/STW-Anzeige-139x115-Strompreisanpassung-20261118.pdf",
+      "quelle_art": "Versorger",
+      "gefunden_am": "2026-11-23",
+      "hinweis": "Öffentliche Bekanntmachung vom 19.11.2026: LuheStrom Basis ab 01.01.2027 35,63 ct/kWh brutto mit 0,1 ct Stromsteuer."
+    },
+    {
+      "versorger": "Vereinigte Wertach-Elektrizitätswerke GmbH (VWEW-energie)",
+      "staedte": [
+        "Kaufbeuren"
+      ],
+      "status": "Weitergabe angekündigt",
+      "zitat": "gültig ab 01.01.2027 (mit gesenkter Stromsteuer)",
+      "quelle_url": "https://vwew-energie.de/grundversorgung",
+      "quelle_art": "Versorger",
+      "gefunden_am": "2026-11-23",
+      "hinweis": "Preisübersicht zeigt zwei Preise: 37,60 ct brutto mit gesenkter Stromsteuer, 39,92 ct mit voller; laut Seite bis zum Gesetz vorbehaltlich und nur informativ."
+    },
+    {
+      "versorger": "MEGA Monheimer Elektrizitäts- und Gasversorgung GmbH",
+      "staedte": [
+        "Monheim am Rhein"
+      ],
+      "status": "Weitergabe angekündigt",
+      "zitat": "Nach Stromsteuersenkung ab 01.01.2027",
+      "quelle_url": "https://www.mega-monheim.de/",
+      "quelle_art": "Versorger",
+      "gefunden_am": "2026-11-23",
+      "hinweis": "Startseite, Tabelle „Strompreisanpassung im Vergleich“: Grundversorgung nach Stromsteuersenkung 40,21 ct/kWh (−2,32 ct). Preisblatt 2027 selbst noch mit 2,050 ct."
+    },
+    {
+      "versorger": "Stadtwerke Hof Energie+Wasser GmbH",
+      "staedte": [
+        "Hof"
+      ],
+      "status": "Weitergabe angekündigt",
+      "zitat": "wird sie vollständig und unmittelbar an die Kundinnen und Kunden weitergegeben",
+      "quelle_url": "https://www.stadtwerke-hof.de/detailseite/stadtwerke-hof-werden-geplante-stromsteuersenkung-vollstaendig-an-kunden-weitergeben/",
+      "quelle_art": "Versorger",
+      "gefunden_am": "2026-11-23",
+      "hinweis": "Preisanpassungsschreiben 2027 noch mit 2,05 ct."
+    },
+    {
+      "versorger": "GSW Gemeinschaftsstadtwerke GmbH Kamen, Bönen, Bergkamen",
+      "staedte": [
+        "Bergkamen",
+        "Kamen"
+      ],
+      "status": "Weitergabe angekündigt",
+      "zitat": "Die Entlastung durch die Stromsteuersenkung geben wir automatisch und vollständig an Sie weiter.",
+      "quelle_url": "https://gsw-kamen.de/privatkundinnen/service/faq",
+      "quelle_art": "Versorger",
+      "gefunden_am": "2026-11-23",
+      "hinweis": "FAQ „Preisanpassung und Stromsteuersenkung“."
+    },
+    {
+      "versorger": "Stadtwerke Detmold GmbH",
+      "staedte": [
+        "Detmold"
+      ],
+      "status": "Weitergabe angekündigt",
+      "zitat": "Stadtwerke Detmold wollen die Entlastung vollständig weitergeben",
+      "quelle_url": "https://www.stadtwerke-detmold.de/meldungen/23112026",
+      "quelle_art": "Versorger",
+      "gefunden_am": "2026-11-23"
+    },
+    {
+      "versorger": "Dortmunder Energie- und Wasserversorgung GmbH (DEW21)",
+      "staedte": [
+        "Dortmund"
+      ],
+      "status": "Weitergabe angekündigt",
+      "zitat": "DEW21 gibt Stromsteuersenkung an Kund*innen weiter",
+      "quelle_url": "https://www.dew21.de/",
+      "quelle_art": "Versorger",
+      "gefunden_am": "2026-11-23",
+      "hinweis": "Startseite: In der Grundversorgung verzichtet DEW21 zudem auf die geplante Preisanpassung."
+    },
+    {
+      "versorger": "Stadtwerke Duisburg AG",
+      "staedte": [
+        "Duisburg"
+      ],
+      "status": "Weitergabe angekündigt",
+      "zitat": "werden diese niedrigere Stromsteuer mit Inkrafttreten automatisch an alle Stromkunden weitergeben",
+      "quelle_url": "https://www.stadtwerke-duisburg.de/",
+      "quelle_art": "Versorger",
+      "gefunden_am": "2026-11-23",
+      "hinweis": "Startseiten-Hinweis „Senkung der Stromsteuer“."
+    },
+    {
+      "versorger": "AVU Aktiengesellschaft für Versorgungs-Unternehmen",
+      "staedte": [
+        "Ennepetal",
+        "Gevelsberg",
+        "Hattingen",
+        "Schwelm",
+        "Sprockhövel",
+        "Wetter (Ruhr)"
+      ],
+      "status": "Weitergabe angekündigt",
+      "zitat": "gibt AVU die Entlastung natürlich vollständig an ihre Kundinnen und Kunden weiter",
+      "quelle_url": "https://www.avu.de/magazin/stromsteuer-senkung/",
+      "quelle_art": "Versorger",
+      "gefunden_am": "2026-11-23"
+    },
+    {
+      "versorger": "Stadtwerke Greifswald GmbH",
+      "staedte": [
+        "Greifswald"
+      ],
+      "status": "Weitergabe angekündigt",
+      "zitat": "beabsichtigen, die Stromsteuersenkung vollumfänglich 1:1 an ihre Stromkundinnen und -kunden weiterzugeben",
+      "quelle_url": "https://www.sw-greifswald.de/ueber-uns/aktuelles/detailseite/stromsteuersenkung2027",
+      "quelle_art": "Versorger",
+      "gefunden_am": "2026-11-23",
+      "hinweis": "Meldung vom 18.11.2026."
+    },
+    {
+      "versorger": "Stadtwerke Hamm GmbH",
+      "staedte": [
+        "Hamm"
+      ],
+      "status": "Weitergabe angekündigt",
+      "zitat": "die Stromsteuersenkung in entsprechender Höhe an unsere Kundschaft weiterzugeben",
+      "quelle_url": "https://www.stadtwerke-hamm.de/das-unternehmen/presse/aktuelles/aktuelles-detailseite/news/information-zur-senkung-der-stromsteuer",
+      "quelle_art": "Versorger",
+      "gefunden_am": "2026-11-23"
+    },
+    {
+      "versorger": "Stadtwerke Garbsen GmbH (SWG energy)",
+      "staedte": [
+        "Garbsen"
+      ],
+      "status": "prüft noch / offen",
+      "zitat": "prüfen wir die Auswirkungen auf unsere Strompreise und informieren Sie transparent",
+      "quelle_url": "https://swg.energy/faq",
+      "quelle_art": "Versorger",
+      "gefunden_am": "2026-11-23",
+      "hinweis": "FAQ „Wird SWG energy die Stromsteuersenkung an die Kunden weitergeben?“: keine Zusage, Prüfung nach Gesetz."
+    },
+    {
+      "versorger": "EVH GmbH",
+      "staedte": [
+        "Halle (Saale)"
+      ],
+      "status": "Weitergabe angekündigt",
+      "zitat": "geben wir die Senkung vollständig und automatisch in Ihrer Jahresabrechnung 2027 weiter",
+      "quelle_url": "https://evh.de/vorteils-und-wissenswelt/fragen-und-antworten/vertrag-und-preise/preisanpassung-2027",
+      "quelle_art": "Versorger",
+      "gefunden_am": "2026-11-23",
+      "hinweis": "FAQ Preisanpassung 2027."
+    },
+    {
+      "versorger": "Stadtwerke Energie Jena-Pößneck GmbH",
+      "staedte": [
+        "Jena"
+      ],
+      "status": "Weitergabe angekündigt",
+      "zitat": "eine konkrete Entlastung, die selbstverständlich vollständig bei unseren Kunden ankommt",
+      "quelle_url": "https://www.stadtwerke-jena.de/energie/privatkunden/news/detail/stromsteuer-soll-sinken--stadtwerke-energie-geben-entlastung-vollstaendig-an-kunden-weiter~e6dcee15-1311-447c-891f-54d7ffdcafca",
+      "quelle_art": "Versorger",
+      "gefunden_am": "2026-11-23"
+    },
+    {
+      "versorger": "Stadtwerke Kleve GmbH",
+      "staedte": [
+        "Kleve"
+      ],
+      "status": "Weitergabe angekündigt",
+      "zitat": "an alle unsere Stromkunden weitergeben",
+      "quelle_url": "https://www.stadtwerke-kleve.de/",
+      "quelle_art": "Versorger",
+      "gefunden_am": "2026-11-23",
+      "hinweis": "Startseiten-Hinweis."
+    },
+    {
+      "versorger": "Stadtwerke Landshut",
+      "staedte": [
+        "Landshut"
+      ],
+      "status": "Weitergabe angekündigt",
+      "zitat": "Stromsteuersenkung geben die Stadtwerke Landshut selbstverständlich weiter",
+      "quelle_url": "https://www.stadtwerke-landshut.de/2026/11/19/stadtwerke-geben-stromsteuersenkung-weiter/",
+      "quelle_art": "Versorger",
+      "gefunden_am": "2026-11-23",
+      "hinweis": "Meldung vom 19.11.2026."
+    },
+    {
+      "versorger": "Städtische Werke Magdeburg GmbH & Co. KG (SWM)",
+      "staedte": [
+        "Magdeburg"
+      ],
+      "status": "Weitergabe angekündigt mit Vorbehalt",
+      "zitat": "setzen wir die neuen Vorgaben selbstverständlich für Sie um",
+      "quelle_url": "https://www.sw-magdeburg.de/",
+      "quelle_art": "Versorger",
+      "gefunden_am": "2026-11-23",
+      "hinweis": "Startseite „Aktuelle Information zur geplanten Stromsteuersenkung“; nennt keine Weitergabe in voller Höhe."
+    },
+    {
+      "versorger": "Stadtwerke Marburg GmbH",
+      "staedte": [
+        "Marburg"
+      ],
+      "status": "Weitergabe angekündigt",
+      "zitat": "Entlastung geben wir selbstverständlich vollständig an unsere Kundinnen und Kunden weiter",
+      "quelle_url": "https://www.stadtwerke-marburg.de/news-detail/detail/Stadtwerke%20Marburg%20unterst%C3%BCtzen%20geplante%20Absenkung%20der%20Stromsteuer%20und%20geben%20diese%20weiter",
+      "quelle_art": "Versorger",
+      "gefunden_am": "2026-11-23"
+    },
+    {
+      "versorger": "Neubrandenburger Stadtwerke GmbH (neu.sw)",
+      "staedte": [
+        "Neubrandenburg"
+      ],
+      "status": "Weitergabe angekündigt",
+      "zitat": "Wir werden diese Entlastung selbstverständlich in vollem Umfang an unsere Kundinnen und Kunden weitergeben",
+      "quelle_url": "https://www.neu-sw.de/neues-von-neusw/meldungen/detail/neusw-gibt-stromsteuersenkung-vollstaendig-weiter",
+      "quelle_art": "Versorger",
+      "gefunden_am": "2026-11-23",
+      "hinweis": "Zitat Geschäftsführer."
+    },
+    {
+      "versorger": "Stadtwerke Neumarkt i.d.OPf. Energie GmbH",
+      "staedte": [
+        "Neumarkt in der Oberpfalz"
+      ],
+      "status": "Weitergabe angekündigt",
+      "zitat": "werden die geplante Senkung der Stromsteuer vollständig an alle ihre Stromkunden weitergeben",
+      "quelle_url": "https://www.swneumarkt.de/stromsteuer-soll-sinken-stadtwerke-neumarkt-geben-entlastung-vollstaendig-weiter/",
+      "quelle_art": "Versorger",
+      "gefunden_am": "2026-11-23",
+      "hinweis": "Meldung vom 19.11.2026; Grundversorgung nach Senkung rund 30,072 ct brutto."
+    },
+    {
+      "versorger": "Energieversorgung Leverkusen GmbH & Co. KG (EVL)",
+      "staedte": [
+        "Leverkusen"
+      ],
+      "status": "Weitergabe angekündigt",
+      "zitat": "geben wir die Entlastung ab Inkrafttreten vollständig an unsere Kundinnen und Kunden weiter",
+      "quelle_url": "https://evl-leverkusen.de/",
+      "quelle_art": "Versorger",
+      "gefunden_am": "2026-11-23",
+      "hinweis": "Startseite."
+    },
+    {
+      "versorger": "Stadtwerke Pirmasens Versorgungs GmbH (SWPS)",
+      "staedte": [
+        "Pirmasens"
+      ],
+      "status": "Weitergabe angekündigt",
+      "zitat": "den daraus resultierenden Preisvorteil in voller Höhe an ihre Kunden weiter",
+      "quelle_url": "https://www.stadtwerke-pirmasens.de/de/Service/Aktuelle-Meldungen/Aktuelles-2026/Stromsteuersenkung-Stadtwerke-geben-Preisvorteil-in-voller-Hoehe-an-Kunden-weiter_294577.html",
+      "quelle_art": "Versorger",
+      "gefunden_am": "2026-11-23"
+    },
+    {
+      "versorger": "Stadtwerke Peine GmbH",
+      "staedte": [
+        "Peine"
+      ],
+      "status": "Weitergabe angekündigt",
+      "zitat": "die Senkung in voller Höhe an ihre Kundinnen und Kunden weiter",
+      "quelle_url": "https://www.stadtwerke-peine.de/",
+      "quelle_art": "Versorger",
+      "gefunden_am": "2026-11-23",
+      "hinweis": "Startseite „Wichtiger Hinweis zur Stromsteuer“."
+    },
+    {
+      "versorger": "Stadtwerke Ratingen GmbH",
+      "staedte": [
+        "Ratingen"
+      ],
+      "status": "Weitergabe angekündigt",
+      "zitat": "Die Stadtwerke Ratingen werden diese Entlastung vollständig an ihre Kundinnen und Kunden weitergeben.",
+      "quelle_url": "https://www.stadtwerke-ratingen.de/unternehmen/neugkeiten-presse/aktuelle-themen/stromsteuersenkung",
+      "quelle_art": "Versorger",
+      "gefunden_am": "2026-11-23"
+    },
+    {
+      "versorger": "Stadtwerke - Strom Plauen GmbH & Co. KG",
+      "staedte": [
+        "Plauen"
+      ],
+      "status": "Weitergabe angekündigt",
+      "zitat": "werden die Steuersenkung vollständig an ihre Kunden weitergeben",
+      "quelle_url": "https://www.stadtwerke-strom-plauen.de/de/unternehmen/news/details?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=595&cHash=86ee680f07845fe30dddc516dd12f6efd9d18db25aefd7097e839e0d806ebabc",
+      "quelle_art": "Versorger",
+      "gefunden_am": "2026-11-23",
+      "hinweis": "News vom 20.11.2026."
+    },
+    {
+      "versorger": "EWR GmbH",
+      "staedte": [
+        "Remscheid"
+      ],
+      "status": "Weitergabe angekündigt",
+      "zitat": "Tritt die Senkung in Kraft, wird die EWR GmbH sie vollständig weitergeben",
+      "quelle_url": "https://www.ewr-remscheid.de/journal/stromsteuer-soll-2027-sinken-ewr-gmbh-gibt-entlastung-vollstaendig-weiter/",
+      "quelle_art": "Versorger",
+      "gefunden_am": "2026-11-23",
+      "hinweis": "EWR GmbH Remscheid (nicht EWR AG Worms)."
+    },
+    {
+      "versorger": "Osterholzer Stadtwerke GmbH & Co. KG",
+      "staedte": [
+        "Osterholz-Scharmbeck"
+      ],
+      "status": "Weitergabe angekündigt",
+      "zitat": "Diese Entlastung wird selbstverständlich vollständig an Sie weitergegeben",
+      "quelle_url": "https://osterholzer-stadtwerke.de/presse/geplante-stromsteuersenkung/",
+      "quelle_art": "Versorger",
+      "gefunden_am": "2026-11-23"
+    },
+    {
+      "versorger": "Stadtwerke Schweinfurt GmbH",
+      "staedte": [
+        "Schweinfurt"
+      ],
+      "status": "Weitergabe angekündigt",
+      "zitat": "Wir geben die Entlastung vollständig an Sie weiter.",
+      "quelle_url": "https://www.stadtwerke-sw.de/aktuelle-meldungen/geplante-senkung-der-stromsteuer",
+      "quelle_art": "Versorger",
+      "gefunden_am": "2026-11-23"
+    },
+    {
+      "versorger": "Stadtwerke Velbert GmbH",
+      "staedte": [
+        "Velbert"
+      ],
+      "status": "Weitergabe angekündigt",
+      "zitat": "Selbstverständlich werden wir die Stromsteuersenkung in vollem Umfang an unsere Kundinnen und Kunden weitergeben.",
+      "quelle_url": "https://www.stadtwerke-velbert.de/",
+      "quelle_art": "Versorger",
+      "gefunden_am": "2026-11-23",
+      "hinweis": "Startseiten-Hinweis."
+    },
+    {
+      "versorger": "GEW Wilhelmshaven GmbH",
+      "staedte": [
+        "Wilhelmshaven"
+      ],
+      "status": "Weitergabe angekündigt",
+      "zitat": "werden wir unsere Strompreise zeitgleich um die Stromsteuer reduzieren",
+      "quelle_url": "https://gew-wilhelmshaven.de/aktuelles/pressemitteilung/stromsteuersenkung-fuer-das-jahr-2027-281/",
+      "quelle_art": "Versorger",
+      "gefunden_am": "2026-11-23",
+      "hinweis": "PM 19.11.2026, gilt ausdrücklich auch für die Grundversorgung."
+    },
+    {
+      "versorger": "Stadtwerke Wolfenbüttel GmbH",
+      "staedte": [
+        "Wolfenbüttel"
+      ],
+      "status": "Weitergabe angekündigt",
+      "zitat": "werden wir die Entlastung selbstverständlich an unsere Kundinnen und Kunden weitergeben",
+      "quelle_url": "https://www.stadtwerke-wf.de/unternehmen/presse/aktuelles/pressemitteilung-18-11.html",
+      "quelle_art": "Versorger",
+      "gefunden_am": "2026-11-23",
+      "hinweis": "PM 18.11.2026."
+    },
+    {
+      "versorger": "Stadtwerke Würzburg AG (WVV)",
+      "staedte": [
+        "Würzburg"
+      ],
+      "status": "Weitergabe angekündigt",
+      "zitat": "die WVV Energie gibt die Steuersenkung selbstverständlich an ihre Stromkundinnen und -kunden weiter",
+      "quelle_url": "https://www.wvv.de/energie-b2c/strom/",
+      "quelle_art": "Versorger",
+      "gefunden_am": "2026-11-23"
+    },
+    {
+      "versorger": "Stadtwerke Straubing Strom und Gas GmbH",
+      "staedte": [
+        "Straubing"
+      ],
+      "status": "Weitergabe angekündigt",
+      "zitat": "Selbstverständlich geben wir diese Entlastung ab dem 01.01.2027 an unsere Stromkunden weiter",
+      "quelle_url": "https://www.stadtwerke-straubing.de/",
+      "quelle_art": "Versorger",
+      "gefunden_am": "2026-11-23",
+      "hinweis": "Startseite, Zitat Vertriebsleiter."
+    },
+    {
+      "versorger": "Mainova AG",
+      "staedte": [
+        "Frankfurt am Main"
+      ],
+      "status": "Weitergabe angekündigt",
+      "zitat": "Wird sie beschlossen, gibt Mainova die Entlastung ab Inkrafttreten vollständig weiter.",
+      "quelle_url": "https://www.mainova.de/de/ihre-mainova/presse/pressemitteilungen/2026/erdgaspreis-bleibt-stabil-strompreis-steigt-leicht-173454",
+      "quelle_art": "Versorger",
+      "gefunden_am": "2026-11-23"
+    },
+    {
+      "versorger": "enercity AG",
+      "staedte": [
+        "Hannover",
+        "Langenhagen"
+      ],
+      "status": "prüft noch / offen",
+      "zitat": "prüfen wir, welche Auswirkungen sich daraus auf Ihren Strompreis ergeben",
+      "quelle_url": "https://www.enercity.de/neuepreise",
+      "quelle_art": "Versorger",
+      "gefunden_am": "2026-11-23",
+      "hinweis": "FAQ: „Eine konkrete Entlastung können wir derzeit noch nicht verbindlich nennen.“"
+    },
+    {
+      "versorger": "EnBW Energie Baden-Württemberg AG",
+      "staedte": [
+        "Böblingen",
+        "Bretten",
+        "Eppingen",
+        "Esslingen am Neckar",
+        "Filderstadt",
+        "Gerlingen",
+        "Leinfelden-Echterdingen",
+        "Leonberg",
+        "Ludwigsburg",
+        "Mühlacker",
+        "Nagold",
+        "Neckarsulm",
+        "Öhringen",
+        "Ostfildern",
+        "Ravensburg",
+        "Schwetzingen",
+        "Sinsheim",
+        "Stuttgart",
+        "Waghäusel",
+        "Weinstadt",
+        "Wiesloch"
+      ],
+      "status": "Weitergabe angekündigt mit Vorbehalt",
+      "zitat": "werden wir diese Änderungen natürlich entsprechend in unserer Preiskalkulation berücksichtigen",
+      "quelle_url": "https://www.enbw.com/presse/enbw-strompreis-gaspreis-anpassung-2027.html",
+      "quelle_art": "Versorger",
+      "gefunden_am": "2026-11-23",
+      "hinweis": "Allgemeine Aussage zu Steuern/Abgaben in der Preis-PM 2027, Stromsteuer nicht ausdrücklich genannt."
+    },
+    {
+      "versorger": "EWE VERTRIEB GmbH",
+      "staedte": [
+        "Aurich",
+        "Bad Zwischenahn",
+        "Brake (Unterweser)",
+        "Bremervörde",
+        "Cloppenburg",
+        "Cuxhaven",
+        "Delmenhorst",
+        "Edewecht",
+        "Friesoythe",
+        "Ganderkesee",
+        "Garrel",
+        "Hude (Oldenburg)",
+        "Leer (Ostfriesland)",
+        "Lohne (Oldenburg)",
+        "Moormerland",
+        "Norden",
+        "Nordenham",
+        "Oldenburg",
+        "Papenburg",
+        "Rastede",
+        "Rhauderfehn",
+        "Schortens",
+        "Schwanewede",
+        "Südbrookmerland",
+        "Varel",
+        "Vechta",
+        "Westerstede",
+        "Westoverledingen",
+        "Wiefelstede",
+        "Wildeshausen"
+      ],
+      "status": "Weitergabe angekündigt",
+      "zitat": "wird die daraus resultierende Entlastung vollständig an seine Kundinnen und Kunden weitergeben",
+      "quelle_url": "https://www.ewe.com/de/media-center/pressemitteilungen/2026/11/ewe-begrt-stromsteuersenkung-ewe-ag",
+      "quelle_art": "Versorger",
+      "gefunden_am": "2026-11-23",
+      "hinweis": "PM der EWE AG (Konzernmutter)."
+    },
+    {
+      "versorger": "SVO Vertrieb GmbH",
+      "staedte": [
+        "Celle"
+      ],
+      "status": "Weitergabe angekündigt mit Vorbehalt",
+      "zitat": "berücksichtigen wir die Stromsteuersenkung entsprechend den gesetzlichen und vertraglichen Vorgaben",
+      "quelle_url": "https://www.svo.de/news/gute-nachrichten-die-stromsteuer-soll-sinken",
+      "quelle_art": "Versorger",
+      "gefunden_am": "2026-11-23",
+      "hinweis": "Keine Aussage zur Höhe."
+    },
+    {
+      "versorger": "Stadtwerke Lünen GmbH",
+      "staedte": [
+        "Lünen"
+      ],
+      "status": "Weitergabe angekündigt",
+      "zitat": "eine gesetzlich beschlossene Senkung der Stromsteuer vollständig an unsere Kundinnen und Kunden weitergeben",
+      "quelle_url": "https://www.stadtwerke-luenen.de/wir/presse/2026-11-23-neue-energiepreise-fuer-2027",
+      "quelle_art": "Versorger",
+      "gefunden_am": "2026-11-23",
+      "hinweis": "PM 23.11.2026."
+    },
+    {
+      "versorger": "Stadtwerke Willich GmbH",
+      "staedte": [
+        "Willich"
+      ],
+      "status": "Weitergabe angekündigt mit Vorbehalt",
+      "zitat": "geben wir diese selbstverständlich an unsere Kundinnen und Kunden weiter",
+      "quelle_url": "https://stadtwerke-willich.de/unternehmen/aktuelles-und-presse/presse/stadtwerke-willich-erhoehen-gas-und-strompreise-in-der-grundversorgung/",
+      "quelle_art": "Versorger",
+      "gefunden_am": "2026-11-23",
+      "hinweis": "Allgemeine Zusage für „weitere Entlastungen“, Stromsteuer nicht ausdrücklich genannt."
+    },
+    {
+      "versorger": "Stadtwerke Neuwied GmbH (SWN)",
+      "staedte": [
+        "Neuwied"
+      ],
+      "status": "Weitergabe angekündigt",
+      "zitat": "Wir geben die Senkung eins zu eins weiter.",
+      "quelle_url": "https://www.swn-neuwied.de/blog-stromsteuersenkung",
+      "quelle_art": "Versorger",
+      "gefunden_am": "2026-11-23",
+      "hinweis": "Blogbeitrag der SWN."
+    },
+    {
+      "versorger": "Stadtwerke Bamberg Energie- und Wasserversorgungs GmbH",
+      "staedte": [
+        "Bamberg"
+      ],
+      "status": "Weitergabe angekündigt",
+      "zitat": "Jede gesetzliche Senkung der Stromsteuer geben wir vollständig an Sie weiter.",
+      "quelle_url": "https://www.stadtwerke-bamberg.de/energie/stromsteuer",
+      "quelle_art": "Versorger",
+      "gefunden_am": "2026-11-23"
+    },
+    {
+      "versorger": "ENTEGA Plus GmbH",
+      "staedte": [
+        "Darmstadt",
+        "Mainz"
+      ],
+      "status": "Weitergabe angekündigt mit Vorbehalt",
+      "zitat": "berücksichtigt ENTEGA die Senkung entsprechend den gesetzlichen Vorgaben",
+      "quelle_url": "https://www.entega.de/energiemarkt-aktuell/",
+      "quelle_art": "Versorger",
+      "gefunden_am": "2026-11-23",
+      "hinweis": "FAQ; keine Aussage zur Höhe."
+    },
+    {
+      "versorger": "Stadtwerke Heidenheim AG",
+      "staedte": [
+        "Heidenheim an der Brenz"
+      ],
+      "status": "Weitergabe angekündigt",
+      "zitat": "wird die Stadtwerke AG die daraus resultierende Entlastung selbstverständlich vollständig an ihre Kunden weitergeben",
+      "quelle_url": "https://www.stadtwerke-heidenheim.de/unternehmen/news-presse/neuigkeiten/energieversorgung-ab-01-01-2027.html",
+      "quelle_art": "Versorger",
+      "gefunden_am": "2026-11-23",
+      "hinweis": "PM 18.11.2026."
+    },
+    {
+      "versorger": "Stadtwerke Villingen-Schwenningen GmbH (SVS)",
+      "staedte": [
+        "Villingen-Schwenningen"
+      ],
+      "status": "Weitergabe angekündigt",
+      "zitat": "werden die Stadtwerke Villingen-Schwenningen die Senkung 1:1 an die Kunden weiterreichen",
+      "quelle_url": "https://www.svs-energie.de/privat-geschaeftskunden/svs/aktuelles-presse/artikel/svs-gibt-steuersenkung-an-kunden-weiter/",
+      "quelle_art": "Versorger",
+      "gefunden_am": "2026-11-23",
+      "hinweis": "Meldung 19.11.2026."
+    },
+    {
+      "versorger": "Stadtwerke Bochum GmbH",
+      "staedte": [
+        "Bochum"
+      ],
+      "status": "Weitergabe angekündigt",
+      "zitat": "Die daraus entstehenden Entlastungen geben wir selbstverständlich vollständig an unsere Kunden weiter.",
+      "quelle_url": "https://www.stadtwerke-bochum.de/privatkunden/ihre-stadtwerke/presse-medien/pressemeldung/stadtwerke-bochum-passen-strom-und-gaspreise-zum-1-januar-2027-an",
+      "quelle_art": "Versorger",
+      "gefunden_am": "2026-11-23",
+      "hinweis": "PM zur Preisanpassung 2027."
+    },
+    {
+      "versorger": "eins energie in sachsen GmbH & Co. KG",
+      "staedte": [
+        "Chemnitz"
+      ],
+      "status": "prüft noch / offen",
+      "zitat": "lässt sich daher nicht unmittelbar eine entsprechende Senkung des Gesamtpreises ableiten",
+      "quelle_url": "https://www.eins.de/",
+      "quelle_art": "Versorger",
+      "gefunden_am": "2026-11-23",
+      "hinweis": "Startseite „Stromsteuer soll 2027 deutlich sinken“; keine Weitergabe-Zusage, aber auch keine Ablehnung."
+    },
+    {
+      "versorger": "envia Mitteldeutsche Energie AG (enviaM)",
+      "staedte": [
+        "Grimma",
+        "Köthen (Anhalt)",
+        "Limbach-Oberfrohna",
+        "Markkleeberg"
+      ],
+      "status": "prüft noch / offen",
+      "zitat": "werden Sie hier auf der Website informieren, sobald die Reduzierung konkret ausgestaltet",
+      "quelle_url": "https://www.enviam.de/",
+      "quelle_art": "Versorger",
+      "gefunden_am": "2026-11-23",
+      "hinweis": "Startseiten-Hinweis; keine Zusage."
+    },
+    {
+      "versorger": "Vattenfall Europe Sales GmbH",
+      "staedte": [
+        "Berlin",
+        "Hamburg"
+      ],
+      "status": "nur Presse",
+      "zitat": "",
+      "quelle_url": "https://www.berliner-zeitung.de/article/stromsteuer-wird-gesenkt-netzentgelte-und-umlagen-fressen-berliner-ersparnis-auf-10611663",
+      "quelle_art": "Presse",
+      "gefunden_am": "2026-11-23",
+      "hinweis": "Berliner Zeitung zitiert laut Suchmaschinen-Auszug einen Konzernsprecher mit voller Weitergabe; Artikel hinter Bezahlschranke, Wortlaut nicht selbst geprüft. Auf vattenfall.de nichts gefunden."
+    },
+    {
+      "versorger": "swb Vertrieb Bremen GmbH",
+      "staedte": [
+        "Bremen"
+      ],
+      "status": "nur Presse",
+      "zitat": "will die SWB nach eigenen Angaben die daraus resultierende Senkung automatisch weitergeben",
+      "quelle_url": "https://www.weser-kurier.de/bremen/wirtschaft/stromkosten-steigen-in-bremen-verbraucherzentrale-gibt-spartipps-doc88huwqji9mo5pyqj1v2",
+      "quelle_art": "Presse",
+      "gefunden_am": "2026-11-23",
+      "hinweis": "Weser-Kurier 19.11.2026; auf swb.de (Startseite, PM 03.11.2026) keine Aussage gefunden."
+    },
+    {
+      "versorger": "Stadtwerke Schwerin GmbH (SWS)",
+      "staedte": [
+        "Schwerin"
+      ],
+      "status": "nur Presse",
+      "zitat": "geben wir diese Entlastung selbstverständlich in voller Höhe an unsere Kundinnen und Kunden",
+      "quelle_url": "https://www.schwerin.de/news/anpassung-strompreis-januar-2027-gaspreis-bleibt-stabil/",
+      "quelle_art": "Presse",
+      "gefunden_am": "2026-11-23",
+      "hinweis": "Zitat der Stadtwerke in einer Meldung auf schwerin.de (Stadtverwaltung); auf stadtwerke-schwerin.de nicht gefunden."
+    }
+  ],
+  "ausserhalb_liste": [
+    {
+      "versorger": "Stadtwerke Mühlacker",
+      "staedte": [
+        "Mühlacker"
+      ],
+      "status": "Weitergabe angekündigt mit Vorbehalt",
+      "zitat": "geben wir die daraus entstehende Entlastung automatisch an unsere Kundinnen und Kunden weiter",
+      "quelle_url": "https://stadtwerke-muehlacker.de/sw/aktuelles/meldungen/Stromsteuersenkung.php",
+      "quelle_art": "Versorger",
+      "gefunden_am": "2026-11-23",
+      "hinweis": "In staedte.json ist für Mühlacker die EnBW als Strom-Grundversorger eingetragen. Zusatz „entsprechend den gesetzlichen und vertraglichen Vorgaben“."
+    },
+    {
+      "versorger": "Stadtwerk Verl",
+      "staedte": [
+        "Verl"
+      ],
+      "status": "Weitergabe angekündigt",
+      "zitat": "Wir geben die daraus entstehende Entlastung selbstverständlich vollständig an Sie weiter.",
+      "quelle_url": "https://sw-verl.de/aktuelles/stromsteuer-soll-2027-sinken-ihr-strompreis-wird-guenstiger/",
+      "quelle_art": "Versorger",
+      "gefunden_am": "2026-11-23",
+      "hinweis": "Verl nicht in staedte.json."
+    },
+    {
+      "versorger": "Stadtwerke Fürstenfeldbruck",
+      "staedte": [
+        "Fürstenfeldbruck"
+      ],
+      "status": "Weitergabe angekündigt",
+      "zitat": "Wir geben die Senkung natürlich an Sie weiter.",
+      "quelle_url": "https://www.stadtwerke-ffb.de/",
+      "quelle_art": "Versorger",
+      "gefunden_am": "2026-11-23",
+      "hinweis": "Fürstenfeldbruck nicht in staedte.json."
+    },
+    {
+      "versorger": "Stadtwerke Pfaffenhofen",
+      "staedte": [
+        "Pfaffenhofen an der Ilm"
+      ],
+      "status": "nur Presse",
+      "zitat": "",
+      "quelle_url": "https://www.pafunddu.de/pfaffenhofen/c-energie-und-mobilitaet/stadtwerke-pfaffenhofen-geben-stromsteuersenkung-vollstaendig-an-kunden-weiter_a46002",
+      "quelle_art": "Presse",
+      "gefunden_am": "2026-11-23",
+      "hinweis": "Auf stadtwerke-pfaffenhofen.de (Startseite) nichts gefunden; nicht in staedte.json."
+    }
+  ]
+}

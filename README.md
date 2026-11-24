@@ -3,7 +3,7 @@
 Offene Daten von [Wechso](https://wechso.de), einem Vergleichsportal für Strom und Gas.
 Wir lesen die Preise der Grundversorgung aus den veröffentlichten Preisblättern der Grundversorger ab. Jede Zeile nennt ihre Quelle.
 
-**Datenstand:** 23.11.2026 · **Lizenz:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de) · **Online:** [wechso.de/presse](https://wechso.de/presse/)
+**DOI:** [10.5281/zenodo.24486140](https://doi.org/10.5281/zenodo.24486140) · **Datenstand:** 23.11.2026 · **Lizenz:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de) · **Online:** [wechso.de/presse](https://wechso.de/presse/)
 
 ## Dateien
 
@@ -27,7 +27,7 @@ Für jeden Grundversorger: Hat er erklärt, die geplante Senkung der Stromsteuer
 - Die Übersicht als Webseite: [wechso.de/stromsteuer-2027](https://wechso.de/stromsteuer-2027/).
 
 ## Nutzung
-Die Daten stehen unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de). Bitte als Quelle nennen: „Wechso, wechso.de/presse, CC BY 4.0“.
+Die Daten stehen unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de). Bitte als Quelle nennen: „Wechso, wechso.de/presse, CC BY 4.0“. Zitierfähig: Wechso (2026): Grundversorgung Strom und Gas in Deutschland: Preise 2026 und 2027 in 316 Städten. Zenodo. https://doi.org/10.5281/zenodo.24486140
 Maßgeblich bleibt im Zweifel das Preisblatt des Versorgers. Sondertarife sind nicht enthalten.
 
 ## Korrekturen
